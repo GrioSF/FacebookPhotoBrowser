@@ -1,0 +1,1989 @@
+TFacebookPhotoBrowser
+v5
+r1
+cCheck dependencies
+cProcessInfoPlistFile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Info.plist FacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist
+cProcessPCH /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch.pth FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser normal i386
+cGenerateDSYMFile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser
+cCopyStringsFile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/InfoPlist.strings FacebookPhotoBrowser/en.lproj/InfoPlist.strings
+cCompileXIB /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib
+cCpResource FacebookPhotoBrowser/FBConnect/FBDialog.bundle build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundle
+cCpResource ../../../Mac/samples/three20/src/Three20.bundle build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundle
+cTouch /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk
+c000000004F453DF80000000000000110
+t1329937912
+s272
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004F58E1C00000000000244490
+t1331225024
+s2376848
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004F58E1C10000000000353830
+t1331225025
+s3487792
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/QuartzCore.framework/QuartzCore
+c000000004F58E1C500000000001AB190
+t1331225029
+s1749392
+
+N/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004F58E1C70000000000905E40
+t1331225031
+s9461312
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20/Three20.h
+c000000004F680E4A0000000000000388
+t1332219466
+s904
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTAvailability.h
+c000000004F680E3C0000000000000A6A
+t1332219452
+s2666
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTCorePreprocessorMacros.h
+c000000004F680E3C00000000000009FA
+t1332219452
+s2554
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTDebug.h
+c000000004F680E3C0000000000000EC0
+t1332219452
+s3776
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTEntityTables.h
+c000000004F680E3C00000000000004E0
+t1332219452
+s1248
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTExtensionAuthor.h
+c000000004F680E3C0000000000000555
+t1332219452
+s1365
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTExtensionInfo.h
+c000000004F680E3C00000000000004F6
+t1332219452
+s1270
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTExtensionLoader.h
+c000000004F680E3C0000000000000A53
+t1332219452
+s2643
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTGlobalCore.h
+c000000004F680E3C00000000000005E6
+t1332219452
+s1510
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTGlobalCoreLocale.h
+c000000004F680E3C000000000000056D
+t1332219452
+s1389
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTGlobalCorePaths.h
+c000000004F680E3C00000000000005D7
+t1332219452
+s1495
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTGlobalCoreRects.h
+c000000004F680E3C0000000000000520
+t1332219452
+s1312
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/TTMarkupStripper.h
+c000000004F680E3C00000000000003CB
+t1332219452
+s971
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/Three20.h
+c000000004F680E3C00000000000007AC
+t1332219452
+s1964
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/Three20Core.h
+c000000004F680E3C00000000000004D8
+t1332219452
+s1240
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Core/Three20Version.h
+c000000004F680E3C0000000000000461
+t1332219452
+s1121
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTErrorCodes.h
+c000000004F680E3E000000000000030D
+t1332219454
+s781
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTGlobalNetwork.h
+c000000004F680E3E000000000000057D
+t1332219454
+s1405
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTModel.h
+c000000004F680E3E0000000000000CEB
+t1332219454
+s3307
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTModelDelegate.h
+c000000004F680E3E00000000000008A8
+t1332219454
+s2216
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLCache.h
+c000000004F680E3E00000000000018EA
+t1332219454
+s6378
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLDataResponse.h
+c000000004F680E3E0000000000000363
+t1332219454
+s867
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLImageResponse.h
+c000000004F680E3E0000000000000434
+t1332219454
+s1076
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLRequest.h
+c000000004F680E3E0000000000002261
+t1332219454
+s8801
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLRequestCachePolicy.h
+c000000004F680E3E00000000000004CF
+t1332219454
+s1231
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLRequestDelegate.h
+c000000004F680E3E00000000000006C3
+t1332219454
+s1731
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLRequestModel.h
+c000000004F680E3E000000000000070C
+t1332219454
+s1804
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLRequestQueue.h
+c000000004F680E3E0000000000000F0A
+t1332219454
+s3850
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTURLResponse.h
+c000000004F680E3E0000000000000845
+t1332219454
+s2117
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/TTUserInfo.h
+c000000004F680E3E0000000000000673
+t1332219454
+s1651
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Network/Three20Network.h
+c000000004F680E3E000000000000058B
+t1332219454
+s1419
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTBevelBorderStyle.h
+c000000004F680E3F0000000000000563
+t1332219455
+s1379
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTBlendStyle.h
+c000000004F680E3F0000000000000340
+t1332219455
+s832
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTBoxStyle.h
+c000000004F680E3F00000000000005FD
+t1332219455
+s1533
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTContentStyle.h
+c000000004F680E3F00000000000002DB
+t1332219455
+s731
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTDefaultStyleSheet+DragRefreshHeader.h
+c000000004F680E3F00000000000004C3
+t1332219455
+s1219
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTDefaultStyleSheet.h
+c000000004F680E3F0000000000001162
+t1332219455
+s4450
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTFlowLayout.h
+c000000004F680E3F0000000000000324
+t1332219455
+s804
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTFourBorderStyle.h
+c000000004F680E3F0000000000000630
+t1332219455
+s1584
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTGlobalStyle.h
+c000000004F680E3F000000000000077D
+t1332219455
+s1917
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTGridLayout.h
+c000000004F680E3F0000000000000373
+t1332219455
+s883
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTHighlightBorderStyle.h
+c000000004F680E3F0000000000000442
+t1332219455
+s1090
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTImageStyle.h
+c000000004F680E3F00000000000007A7
+t1332219455
+s1959
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTInnerShadowStyle.h
+c000000004F680E3F00000000000002B8
+t1332219455
+s696
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTInsetStyle.h
+c000000004F680E3F0000000000000337
+t1332219455
+s823
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTLayout.h
+c000000004F680E3F00000000000002F8
+t1332219455
+s760
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTLinearGradientBorderStyle.h
+c000000004F680E3F00000000000005DC
+t1332219455
+s1500
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTLinearGradientFillStyle.h
+c000000004F680E3F00000000000003D5
+t1332219455
+s981
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTMaskStyle.h
+c000000004F680E3F000000000000032D
+t1332219455
+s813
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTPartStyle.h
+c000000004F680E3F00000000000003CD
+t1332219455
+s973
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTPosition.h
+c000000004F680E3F00000000000002CA
+t1332219455
+s714
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTRectangleShape.h
+c000000004F680E3F00000000000002C8
+t1332219455
+s712
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTReflectiveFillStyle.h
+c000000004F680E3F0000000000000435
+t1332219455
+s1077
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTRoundedLeftArrowShape.h
+c000000004F680E3F000000000000032E
+t1332219455
+s814
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTRoundedRectangleShape.h
+c000000004F680E3F00000000000004DD
+t1332219455
+s1245
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTRoundedRightArrowShape.h
+c000000004F680E3F0000000000000330
+t1332219455
+s816
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTShadowStyle.h
+c000000004F680E3F0000000000000402
+t1332219455
+s1026
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTShape.h
+c000000004F680E3F00000000000004D8
+t1332219455
+s1240
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTShapeStyle.h
+c000000004F680E3F000000000000038A
+t1332219455
+s906
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTSolidBorderStyle.h
+c000000004F680E3F0000000000000399
+t1332219455
+s921
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTSolidFillStyle.h
+c000000004F680E3F000000000000033B
+t1332219455
+s827
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTSpeechBubbleShape.h
+c000000004F680E3F00000000000007EA
+t1332219455
+s2026
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyle.h
+c000000004F680E3F0000000000000474
+t1332219455
+s1140
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyleContext.h
+c000000004F680E3F00000000000004BA
+t1332219455
+s1210
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyleDelegate.h
+c000000004F680E3F000000000000039D
+t1332219455
+s925
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyleSheet.h
+c000000004F680E3F00000000000003E3
+t1332219455
+s995
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledBlock.h
+c000000004F680E3F00000000000002B7
+t1332219455
+s695
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledBoldNode.h
+c000000004F680E3F00000000000002B8
+t1332219455
+s696
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledBoxFrame.h
+c000000004F680E3F0000000000000437
+t1332219455
+s1079
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledButtonNode.h
+c000000004F680E3F000000000000042B
+t1332219455
+s1067
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledElement.h
+c000000004F680E3F0000000000000515
+t1332219455
+s1301
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledFrame.h
+c000000004F680E3F00000000000005E0
+t1332219455
+s1504
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledImageFrame.h
+c000000004F680E3F000000000000046E
+t1332219455
+s1134
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledImageNode.h
+c000000004F680E3F000000000000043F
+t1332219455
+s1087
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledInline.h
+c000000004F680E3F00000000000002B8
+t1332219455
+s696
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledInlineBlock.h
+c000000004F680E3F00000000000002BD
+t1332219455
+s701
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledInlineFrame.h
+c000000004F680E3F00000000000003F3
+t1332219455
+s1011
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledItalicNode.h
+c000000004F680E3F00000000000002BA
+t1332219455
+s698
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledLineBreakNode.h
+c000000004F680E3F00000000000002BB
+t1332219455
+s699
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledLinkNode.h
+c000000004F680E3F000000000000041F
+t1332219455
+s1055
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledNode.h
+c000000004F680E3F000000000000047B
+t1332219455
+s1147
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledText.h
+c000000004F680E3F0000000000000F84
+t1332219455
+s3972
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledTextDelegate.h
+c000000004F680E3F0000000000000314
+t1332219455
+s788
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledTextFrame.h
+c000000004F680E3F00000000000004D5
+t1332219455
+s1237
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledTextNode.h
+c000000004F680E3F000000000000037D
+t1332219455
+s893
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTStyledTextParser.h
+c000000004F680E3F000000000000055F
+t1332219455
+s1375
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/TTTextStyle.h
+c000000004F680E3F0000000000000B13
+t1332219455
+s2835
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20Style/Three20Style.h
+c000000004F680E3F0000000000000C09
+t1332219455
+s3081
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTActionSheetController.h
+c000000004F680E430000000000000C84
+t1332219459
+s3204
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTActionSheetControllerDelegate.h
+c000000004F680E430000000000000704
+t1332219459
+s1796
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTActivityLabel.h
+c000000004F680E430000000000000749
+t1332219459
+s1865
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTAlertViewController.h
+c000000004F680E430000000000000663
+t1332219459
+s1635
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTAlertViewControllerDelegate.h
+c000000004F680E430000000000000394
+t1332219459
+s916
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTButton.h
+c000000004F680E430000000000000799
+t1332219459
+s1945
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTButtonBar.h
+c000000004F680E4300000000000003E1
+t1332219459
+s993
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTErrorView.h
+c000000004F680E4300000000000004AB
+t1332219459
+s1195
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTExtensionsController.h
+c000000004F680E44000000000000068E
+t1332219460
+s1678
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTImageView.h
+c000000004F680E430000000000000BD3
+t1332219459
+s3027
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTImageViewDelegate.h
+c000000004F680E4300000000000005B7
+t1332219459
+s1463
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTLabel.h
+c000000004F680E430000000000000346
+t1332219459
+s838
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTLauncherItem.h
+c000000004F680E430000000000000673
+t1332219459
+s1651
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTLauncherPersistenceMode.h
+c000000004F680E4400000000000002F9
+t1332219460
+s761
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTLauncherView.h
+c000000004F680E430000000000000E73
+t1332219459
+s3699
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTLauncherViewDelegate.h
+c000000004F680E4300000000000004F0
+t1332219459
+s1264
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTLink.h
+c000000004F680E430000000000000460
+t1332219459
+s1120
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTListDataSource.h
+c000000004F680E4300000000000003F3
+t1332219459
+s1011
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTMessageController.h
+c000000004F680E430000000000001B6A
+t1332219459
+s7018
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTMessageControllerDelegate.h
+c000000004F680E43000000000000081A
+t1332219459
+s2074
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTMessageField.h
+c000000004F680E43000000000000058E
+t1332219459
+s1422
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTMessageRecipientField.h
+c000000004F680E4300000000000003C8
+t1332219459
+s968
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTMessageSubjectField.h
+c000000004F680E43000000000000037B
+t1332219459
+s891
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTMessageTextField.h
+c000000004F680E430000000000000331
+t1332219459
+s817
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTModelViewController.h
+c000000004F680E430000000000001712
+t1332219459
+s5906
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTNavigationController.h
+c000000004F680E44000000000000047D
+t1332219460
+s1149
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTNavigator.h
+c000000004F680E4400000000000004CB
+t1332219460
+s1227
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPageControl.h
+c000000004F680E430000000000000505
+t1332219459
+s1285
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPhoto.h
+c000000004F680E4300000000000004FC
+t1332219459
+s1276
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPhotoSource.h
+c000000004F680E4300000000000004F7
+t1332219459
+s1271
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPhotoVersion.h
+c000000004F680E4300000000000002EB
+t1332219459
+s747
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPhotoView.h
+c000000004F680E430000000000000581
+t1332219459
+s1409
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPhotoViewController.h
+c000000004F680E430000000000000C70
+t1332219459
+s3184
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPickerTextField.h
+c000000004F680E430000000000000533
+t1332219459
+s1331
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPickerTextFieldDelegate.h
+c000000004F680E4300000000000003DE
+t1332219459
+s990
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPopupViewController.h
+c000000004F680E4300000000000005B3
+t1332219459
+s1459
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPostController.h
+c000000004F680E430000000000000955
+t1332219459
+s2389
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTPostControllerDelegate.h
+c000000004F680E4300000000000005F1
+t1332219459
+s1521
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTRecursiveProgress.h
+c000000004F680E430000000000000E79
+t1332219459
+s3705
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTScrollView.h
+c000000004F680E430000000000001D7D
+t1332219459
+s7549
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTScrollViewDataSource.h
+c000000004F680E43000000000000058A
+t1332219459
+s1418
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTScrollViewDelegate.h
+c000000004F680E4300000000000007A7
+t1332219459
+s1959
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSearchBar.h
+c000000004F680E43000000000000085C
+t1332219459
+s2140
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSearchDisplayController.h
+c000000004F680E430000000000000637
+t1332219459
+s1591
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSearchTextField.h
+c000000004F680E430000000000000703
+t1332219459
+s1795
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSearchTextFieldDelegate.h
+c000000004F680E430000000000000341
+t1332219459
+s833
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSearchlightLabel.h
+c000000004F680E430000000000000520
+t1332219459
+s1312
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSectionedDataSource.h
+c000000004F680E430000000000000841
+t1332219459
+s2113
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTSplitViewController.h
+c000000004F680E44000000000000060D
+t1332219460
+s1549
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTStyledTextLabel.h
+c000000004F680E4300000000000008CE
+t1332219459
+s2254
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTStyledTextTableCell.h
+c000000004F680E430000000000000331
+t1332219459
+s817
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTStyledTextTableItemCell.h
+c000000004F680E430000000000000341
+t1332219459
+s833
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTab.h
+c000000004F680E430000000000000374
+t1332219459
+s884
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTabBar.h
+c000000004F680E4300000000000005B2
+t1332219459
+s1458
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTabDelegate.h
+c000000004F680E4300000000000002FA
+t1332219459
+s762
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTabGrid.h
+c000000004F680E4300000000000002EC
+t1332219459
+s748
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTabItem.h
+c000000004F680E430000000000000409
+t1332219459
+s1033
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTabStrip.h
+c000000004F680E430000000000000359
+t1332219459
+s857
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableActivityItem.h
+c000000004F680E430000000000000319
+t1332219459
+s793
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableActivityItemCell.h
+c000000004F680E430000000000000385
+t1332219459
+s901
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableButton.h
+c000000004F680E4300000000000002B1
+t1332219459
+s689
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableCaptionItem.h
+c000000004F680E430000000000000410
+t1332219459
+s1040
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableCaptionItemCell.h
+c000000004F680E4300000000000002FF
+t1332219459
+s767
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableControlCell.h
+c000000004F680E43000000000000039C
+t1332219459
+s924
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableControlItem.h
+c000000004F680E430000000000000392
+t1332219459
+s914
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableFlushViewCell.h
+c000000004F680E43000000000000038D
+t1332219459
+s909
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableFooterInfiniteScrollView.h
+c000000004F680E44000000000000036B
+t1332219460
+s875
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableGrayTextItem.h
+c000000004F680E4300000000000002B7
+t1332219459
+s695
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableHeaderDragRefreshView.h
+c000000004F680E4300000000000007C6
+t1332219459
+s1990
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableHeaderView.h
+c000000004F680E4300000000000002E2
+t1332219459
+s738
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableImageItem.h
+c000000004F680E430000000000000564
+t1332219459
+s1380
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableImageItemCell.h
+c000000004F680E430000000000000338
+t1332219459
+s824
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableItem.h
+c000000004F680E430000000000000302
+t1332219459
+s770
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableLink.h
+c000000004F680E4300000000000002AF
+t1332219459
+s687
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableLinkedItem.h
+c000000004F680E430000000000000442
+t1332219459
+s1090
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableLinkedItemCell.h
+c000000004F680E4300000000000002F5
+t1332219459
+s757
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableLongTextItem.h
+c000000004F680E4300000000000002B7
+t1332219459
+s695
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableMessageItem.h
+c000000004F680E430000000000000518
+t1332219459
+s1304
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableMessageItemCell.h
+c000000004F680E43000000000000044A
+t1332219459
+s1098
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableMoreButton.h
+c000000004F680E43000000000000036D
+t1332219459
+s877
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableMoreButtonCell.h
+c000000004F680E4300000000000003D1
+t1332219459
+s977
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableRightCaptionItem.h
+c000000004F680E4300000000000002C1
+t1332219459
+s705
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableRightCaptionItemCell.h
+c000000004F680E430000000000000304
+t1332219459
+s772
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableRightImageItem.h
+c000000004F680E4300000000000002BB
+t1332219459
+s699
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSection.h
+c000000004F680E44000000000000039E
+t1332219460
+s926
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSettingsItem.h
+c000000004F680E4400000000000002BE
+t1332219460
+s702
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSettingsItemCell.h
+c000000004F680E440000000000000300
+t1332219460
+s768
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableStyledTextItem.h
+c000000004F680E430000000000000482
+t1332219459
+s1154
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSubtextItem.h
+c000000004F680E4300000000000002BC
+t1332219459
+s700
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSubtextItemCell.h
+c000000004F680E4300000000000002FF
+t1332219459
+s767
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSubtitleItem.h
+c000000004F680E4300000000000005F5
+t1332219459
+s1525
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSubtitleItemCell.h
+c000000004F680E430000000000000385
+t1332219459
+s901
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableSummaryItem.h
+c000000004F680E4300000000000002B6
+t1332219459
+s694
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableTextItem.h
+c000000004F680E430000000000000406
+t1332219459
+s1030
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableTextItemCell.h
+c000000004F680E4300000000000002C3
+t1332219459
+s707
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableView.h
+c000000004F680E43000000000000070F
+t1332219459
+s1807
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewCell.h
+c000000004F680E43000000000000076F
+t1332219459
+s1903
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewController.h
+c000000004F680E430000000000001103
+t1332219459
+s4355
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewDataSource.h
+c000000004F680E430000000000000BD1
+t1332219459
+s3025
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewDelegate.h
+c000000004F680E430000000000000710
+t1332219459
+s1808
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewDragRefreshDelegate.h
+c000000004F680E4300000000000006BA
+t1332219459
+s1722
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewGroupedVarHeightDelegate.h
+c000000004F680E43000000000000033F
+t1332219459
+s831
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewItem.h
+c000000004F680E430000000000000371
+t1332219459
+s881
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewNetworkEnabledDelegate.h
+c000000004F680E44000000000000067A
+t1332219460
+s1658
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewPlainDelegate.h
+c000000004F680E43000000000000030D
+t1332219459
+s781
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewPlainVarHeightDelegate.h
+c000000004F680E4300000000000002E5
+t1332219459
+s741
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTableViewVarHeightDelegate.h
+c000000004F680E43000000000000031D
+t1332219459
+s797
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTextBarController.h
+c000000004F680E4300000000000008AC
+t1332219459
+s2220
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTextBarDelegate.h
+c000000004F680E43000000000000056B
+t1332219459
+s1387
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTextEditor.h
+c000000004F680E430000000000000691
+t1332219459
+s1681
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTTextEditorDelegate.h
+c000000004F680E430000000000000534
+t1332219459
+s1332
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTThumbView.h
+c000000004F680E4400000000000002D3
+t1332219460
+s723
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTThumbsDataSource.h
+c000000004F680E430000000000000486
+t1332219459
+s1158
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTThumbsTableViewCell.h
+c000000004F680E430000000000000521
+t1332219459
+s1313
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTThumbsTableViewCellDelegate.h
+c000000004F680E44000000000000031B
+t1332219460
+s795
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTThumbsViewController.h
+c000000004F680E440000000000000578
+t1332219460
+s1400
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTThumbsViewControllerDelegate.h
+c000000004F680E440000000000000505
+t1332219460
+s1285
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTView.h
+c000000004F680E44000000000000041F
+t1332219460
+s1055
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTViewController.h
+c000000004F680E4400000000000006C8
+t1332219460
+s1736
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTWebController.h
+c000000004F680E440000000000000A70
+t1332219460
+s2672
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/TTYouTubeView.h
+c000000004F680E4400000000000003CF
+t1332219460
+s975
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UI/Three20UI.h
+c000000004F680E4300000000000015F4
+t1332219459
+s5620
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UICommon/TTBaseViewController.h
+c000000004F680E3E0000000000000A48
+t1332219454
+s2632
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UICommon/TTGlobalUICommon.h
+c000000004F680E3E0000000000001895
+t1332219454
+s6293
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UICommon/Three20UICommon.h
+c000000004F680E3E00000000000002CE
+t1332219454
+s718
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTBaseNavigationController.h
+c000000004F680E3F000000000000050F
+t1332219455
+s1295
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTBaseNavigator.h
+c000000004F680E3F00000000000021AD
+t1332219455
+s8621
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTGlobalNavigatorMetrics.h
+c000000004F680E3F00000000000006A1
+t1332219455
+s1697
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTNavigationMode.h
+c000000004F680E3F0000000000000449
+t1332219455
+s1097
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTNavigatorDelegate.h
+c000000004F680E3F0000000000000657
+t1332219455
+s1623
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTNavigatorPersistenceMode.h
+c000000004F680E3F0000000000000348
+t1332219455
+s840
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTNavigatorRootContainer.h
+c000000004F680E3F000000000000036D
+t1332219455
+s877
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTNavigatorViewController.h
+c000000004F680E3F000000000000036A
+t1332219455
+s874
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTURLAction.h
+c000000004F680E3F0000000000000CBD
+t1332219455
+s3261
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTURLGeneratorPattern.h
+c000000004F680E3F0000000000000379
+t1332219455
+s889
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTURLMap.h
+c000000004F680E3F00000000000016B4
+t1332219455
+s5812
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTURLNavigatorPattern.h
+c000000004F680E3F0000000000000790
+t1332219455
+s1936
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTURLObject.h
+c000000004F680E3F0000000000000497
+t1332219455
+s1175
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/TTURLPattern.h
+c000000004F680E3F0000000000000511
+t1332219455
+s1297
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/Build/Products/three20/Three20UINavigator/Three20UINavigator.h
+c000000004F680E3F0000000000000584
+t1332219455
+s1412
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/src/Three20.bundle
+c000000004F4712740000000000000264
+t1330057844
+s612
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBConnect.h
+c000000004F46CE6E00000000000002C2
+t1330040430
+s706
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.bundle
+c000000004F46CE6E0000000000000066
+t1330040430
+s102
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.h
+c000000004F46CE6E00000000000011AB
+t1330040430
+s4523
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m
+c000000004F46CE6E000000000000576C
+t1330040430
+s22380
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.h
+c000000004F46CE6E000000000000056B
+t1330040430
+s1387
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m
+c000000004F46CE6E0000000000000BC4
+t1330040430
+s3012
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.h
+c000000004F46CE6E0000000000000EC3
+t1330040430
+s3779
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m
+c000000004F46CE6E0000000000002E53
+t1330040430
+s11859
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h
+c000000004F46CE6E0000000000001153
+t1330040430
+s4435
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m
+c000000004F46CE6E0000000000006F7F
+t1330040430
+s28543
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/JSON.h
+c000000004F46CE6E00000000000008F9
+t1330040430
+s2297
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.h
+c000000004F46CE6E0000000000000A01
+t1330040430
+s2561
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m
+c000000004F46CE6E000000000000089E
+t1330040430
+s2206
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.h
+c000000004F46CE6E0000000000000916
+t1330040430
+s2326
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m
+c000000004F46CE6E000000000000087D
+t1330040430
+s2173
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.h
+c000000004F46CE6E0000000000000AED
+t1330040430
+s2797
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m
+c000000004F46CE6E0000000000001ABC
+t1330040430
+s6844
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.h
+c000000004F46CE6E0000000000000B82
+t1330040430
+s2946
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m
+c000000004F46CE6E0000000000000AC1
+t1330040430
+s2753
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.h
+c000000004F46CE6E0000000000000C0B
+t1330040430
+s3083
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m
+c000000004F46CE6E00000000000036D0
+t1330040430
+s14032
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.h
+c000000004F46CE6E0000000000001140
+t1330040430
+s4416
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m
+c000000004F46CE6E0000000000001F26
+t1330040430
+s7974
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.h
+c000000004F6D413B000000000000016A
+t1332560187
+s362
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m
+c000000004F58F2CD0000000000000E42
+t1331229389
+s3650
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.h
+c000000004F68085C000000000000032E
+t1332217948
+s814
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m
+c000000004F68086A0000000000000594
+t1332217962
+s1428
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch
+c000000004F46C8EE0000000000000153
+t1330039022
+s339
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.h
+c000000004F48785A00000000000001FE
+t1330149466
+s510
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m
+c000000004F48786E0000000000000408
+t1330149486
+s1032
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.h
+c000000004F6D412E0000000000000272
+t1332560174
+s626
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m
+c000000004F6D434D0000000000000B8C
+t1332560717
+s2956
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h
+c000000004F6D40C00000000000000489
+t1332560064
+s1161
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m
+c000000004F6D42F20000000000000A46
+t1332560626
+s2630
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.h
+c000000004F58EBD200000000000001EB
+t1331227602
+s491
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m
+c000000004F6809170000000000000BDA
+t1332218135
+s3034
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.h
+c000000004F67BF5A00000000000001AD
+t1332199258
+s429
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m
+c000000004F680C000000000000000EC9
+t1332218880
+s3785
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib
+c000000004F67FA760000000000002E25
+t1332214390
+s11813
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/InfoPlist.strings
+c000000004F46C8EE000000000000002D
+t1330039022
+s45
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m
+c000000004F680DAB0000000000000187
+t1332219307
+s391
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app
+t1332560629
+s272
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM
+t1332560629
+s102
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundle
+t1332219469
+s102
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser
+t1332560629
+s2150252
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Info.plist
+t1332219565
+s995
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/PkgInfo
+t1332219565
+s8
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundle
+t1332219469
+s612
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/FacebookPhotoBrowserViewController.nib
+t1332219567
+s1464
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/InfoPlist.strings
+t1332219469
+s42
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.o
+t1332219565
+s111872
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.o
+t1332219565
+s51524
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.o
+t1332219565
+s49384
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.o
+t1332219565
+s102616
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.o
+t1332560192
+s72316
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.o
+t1332219566
+s21332
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowser.LinkFileList
+c000000004F680E4B0000000000000CFF
+t1332219467
+s3327
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.o
+t1332560177
+s61108
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.o
+t1332560526
+s69424
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.o
+t1332560629
+s64696
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.o
+t1332219566
+s68584
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.o
+t1332560079
+s75308
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.o
+t1332219565
+s6804
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.o
+t1332219565
+s6876
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.o
+t1332219565
+s19116
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.o
+t1332219565
+s11884
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.o
+t1332219565
+s35364
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.o
+t1332219566
+s26912
+
+N/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.o
+t1332560078
+s3176
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20.a
+c000000004F680E4B00000000000007C0
+t1332219467
+s1984
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20Core.a
+c000000004F680E3D0000000000044A08
+t1332219453
+s281096
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20Network.a
+c000000004F680E3F0000000000055B98
+t1332219455
+s351128
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20Style.a
+c000000004F680E420000000000124068
+t1332219458
+s1196136
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20UI.a
+c000000004F680E4900000000006978E8
+t1332219465
+s6912232
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a
+c000000004F680E3F0000000000055EB0
+t1332219455
+s351920
+
+N/Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a
+c000000004F680E430000000000086AC0
+t1332219459
+s551616
+
+N/var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.pth
+t1332219467
+s4040816
+
+N/var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch.pth
+t1332219166
+s4021716
+
+NFacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist
+c000000004F680E2F000000000000058F
+t1332219439
+s1423
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m
+r0
+
+CBuild AST from /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m
+r0
+
+CCheck dependencies
+r0
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciesada419d17a1db541^f3041ad17a1db541^---0#1#0#--18"Check dependencies36"D0A9ECEB-B29E-465C-986C-59065C720F74-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.726528
+e353912365.946469
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.me02fba2d4618b541^9b56f22d4618b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m0000000000000000^4167"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.o FacebookPhotoBrowser/FBConnect/FBDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBDialog.o36"1488F91A-5844-4D1A-B927-4F71A6CFCC64-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.779787
+e353912365.885614
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m29d0c72d4618b541^71cce22d4618b541^---0#0#0#-19%DVTDocumentLocation2@125"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m0000000000000000^4197"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.o FacebookPhotoBrowser/FBConnect/FBLoginDialog.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBLoginDialog.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBLoginDialog.o36"CDF7D4E5-37B4-453B-AB17-62C401ADDA30-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.790631
+e353912365.885738
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m5e9eca2d4618b541^95d7e22d4618b541^---0#0#0#-19%DVTDocumentLocation2@121"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m0000000000000000^4173"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.o FacebookPhotoBrowser/FBConnect/FBRequest.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBRequest.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FBRequest.o36"2C6955D8-E750-4434-A432-A4879599E77D-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.639346
+e353912365.820782
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection112"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.maed8a32d4618b541^7920d22d4618b541^---0#0#0#-19%DVTDocumentLocation2@120"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m0000000000000000^4167"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.o FacebookPhotoBrowser/FBConnect/Facebook.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/Facebook.o36"3448DF7C-1D91-495E-8AF7-5D34B268D0EC-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354252991.956927
+e354252992.098269
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.mcd21f5bf781db541^200820c0781db541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m0000000000000000^4273"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.o FacebookPhotoBrowser/FacebookAlbumsTableController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookAlbumsTableController.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookAlbumsTableController.o36"C0AEDBD5-10B7-414A-882B-E9D24C44F46D-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912366.025960
+e353912366.143409
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection107"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.mbbd6062e4618b541^6ec3242e4618b541^---0#0#0#-19%DVTDocumentLocation2@115"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m0000000000000000^4177"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.o FacebookPhotoBrowser/FacebookPhoto.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhoto.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhoto.o36"6E987E84-8033-42CE-BF1F-9475CBE543C3-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354252977.265647
+e354252977.393460
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection125"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m312344b1781db541^c9c66bb1781db541^---0#0#0#-19%DVTDocumentLocation2@133"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m0000000000000000^4285"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.o FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserAppDelegate.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserAppDelegate.o36"226B3A5B-33E3-4CF2-8751-961EC7478679-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354253521.132160
+e354253521.202683
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection128"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.mf9f721d17a1db541^8fe234d17a1db541^---0#0#0#-19%DVTDocumentLocation2@136"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m0000000000000000^4303"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.o FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowserViewController.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowserViewController.o36"316EC0DE-09FB-4B99-875C-C11770CD5690-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354253429.324261
+e354253429.452207
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: incomplete implementation [-Wincomplete-implementation]
+o@implementation FacebookPhotoPickerController
+o                ^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: method in protocol not implemented [-Wprotocol]
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h:123:1: note: method declared here
+o- (void)fbDidExtendToken:(NSString*)accessToken
+o^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h:30:12: note: required for direct or indirect protocol 'FBSessionDelegate'
+o@interface FacebookPhotoPickerController : UINavigationController <FBSessionDelegate> {
+o           ^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: method in protocol not implemented [-Wprotocol]
+o@implementation FacebookPhotoPickerController
+o                ^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h:129:1: note: method declared here
+o- (void)fbDidLogout;
+o^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h:30:12: note: required for direct or indirect protocol 'FBSessionDelegate'
+o@interface FacebookPhotoPickerController : UINavigationController <FBSessionDelegate> {
+o           ^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: method in protocol not implemented [-Wprotocol]
+o@implementation FacebookPhotoPickerController
+o                ^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h:138:1: note: method declared here
+o- (void)fbSessionInvalidated;
+o^
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h:30:12: note: required for direct or indirect protocol 'FBSessionDelegate'
+o@interface FacebookPhotoPickerController : UINavigationController <FBSessionDelegate> {
+o           ^
+o4 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m5a2e53757a1db541^a9c273757a1db541^-2337"/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: incomplete implementation [-Wincomplete-implementation]@implementation FacebookPhotoPickerController                ^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: method in protocol not implemented [-Wprotocol]/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h:123:1: note: method declared here- (void)fbDidExtendToken:(NSString*)accessToken^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h:30:12: note: required for direct or indirect protocol 'FBSessionDelegate'@interface FacebookPhotoPickerController : UINavigationController <FBSessionDelegate> {           ^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: method in protocol not implemented [-Wprotocol]@implementation FacebookPhotoPickerController                ^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h:129:1: note: method declared here- (void)fbDidLogout;^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h:30:12: note: required for direct or indirect protocol 'FBSessionDelegate'@interface FacebookPhotoPickerController : UINavigationController <FBSessionDelegate> {           ^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m:13:17: warning: method in protocol not implemented [-Wprotocol]@implementation FacebookPhotoPickerController                ^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h:138:1: note: method declared here- (void)fbSessionInvalidated;^/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h:30:12: note: required for direct or indirect protocol 'FBSessionDelegate'@interface FacebookPhotoPickerController : UINavigationController <FBSessionDelegate> {           ^4 warnings generated.4(36%IDEClangDiagnosticActivityLogMessage2@25"Incomplete implementation-354253429#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m0000000000000000^12#16#12#16#277#0#14"Semantic Issue--2@34"Method in protocol not implemented-354253429#18446744073709551615#0#2(2@20"Method declared here-354253429#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h0000000000000000^122#0#122#0#4008#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'FBSessionDelegate'-354253429#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h0000000000000000^29#11#29#11#852#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m0000000000000000^12#16#12#16#277#0#14"Semantic Issue--2@34"Method in protocol not implemented-354253429#18446744073709551615#0#2(2@20"Method declared here-354253429#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h0000000000000000^128#0#128#0#4146#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'FBSessionDelegate'-354253429#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h0000000000000000^29#11#29#11#852#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m0000000000000000^12#16#12#16#277#0#14"Semantic Issue--2@34"Method in protocol not implemented-354253429#18446744073709551615#0#2(2@20"Method declared here-354253429#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@120"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/Facebook.h0000000000000000^137#0#137#0#4399#0#14"Semantic Issue--2@60"Required for direct or indirect protocol 'FBSessionDelegate'-354253429#18446744073709551615#0#-0#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.h0000000000000000^29#11#29#11#852#0#14"Semantic Issue--1#27"com.apple.dt.IDE.diagnostic3@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m0000000000000000^12#16#12#16#277#0#14"Semantic Issue--0#0#0#-19%DVTDocumentLocation4@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m0000000000000000^4273"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.o FacebookPhotoBrowser/FacebookPhotoPickerController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoPickerController.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoPickerController.o36"7EF7EE69-4E11-4398-82B6-D5E9FB10E534-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912366.144751
+e353912366.279304
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m:70:3: warning: instance method '-perform:withObject:withObject:' not found (return type defaults to 'id')
+o  [_delegates perform: @selector(model:didFailLoadWithError:)
+o  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m:109:3: warning: instance method '-perform:withObject:' not found (return type defaults to 'id')
+o  [_delegates perform:@selector(modelDidFinishLoad:) withObject:self];
+o  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+o2 warnings generated.
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection113"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m3a3f252e4618b541^1767582e4618b541^-701"/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m:70:3: warning: instance method '-perform:withObject:withObject:' not found (return type defaults to 'id')  [_delegates perform: @selector(model:didFailLoadWithError:)  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m:109:3: warning: instance method '-perform:withObject:' not found (return type defaults to 'id')  [_delegates perform:@selector(modelDidFinishLoad:) withObject:self];  ^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~2 warnings generated.2(36%IDEClangDiagnosticActivityLogMessage2@90"Instance method '-perform:withObject:withObject:' not found (return type defaults to 'id')-353912366#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic23%DVTTextDocumentLocation3@121"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m0000000000000000^69#2#69#2#1425#0#14"Semantic Issue1(3@121"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m0000000000000000^69#2#71#27#1425#114#-2@79"Instance method '-perform:withObject:' not found (return type defaults to 'id')-353912366#18446744073709551615#0#-1#27"com.apple.dt.IDE.diagnostic3@121"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m0000000000000000^108#2#108#2#2580#0#14"Semantic Issue1(3@121"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m0000000000000000^108#2#108#69#2580#66#-0#0#0#-19%DVTDocumentLocation4@121"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m0000000000000000^4213"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.o FacebookPhotoBrowser/FacebookPhotoSource.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoSource.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoSource.o36"FF2B1C71-0844-411C-B5C0-46A0DBA9034A-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354252879.009657
+e354252879.195773
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection130"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m38a3024f781db541^eca53d4f781db541^---0#0#0#-19%DVTDocumentLocation2@138"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m0000000000000000^4315"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.o FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoThumbnailViewController.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoThumbnailViewController.o36"754E8181-EAF7-4357-AF78-292910DFF8A2-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.822145
+e353912365.858681
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.me7a9d22d4618b541^1bd7db2d4618b541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m0000000000000000^4219"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.o FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSObject+SBJSON.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSObject+SBJSON.o36"8BA7ED8A-37F8-425B-93D2-D5107FFC937C-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.860128
+e353912365.897893
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection124"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m3867dc2d4618b541^d4d1e52d4618b541^---0#0#0#-19%DVTDocumentLocation2@132"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m0000000000000000^4219"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.o FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/NSString+SBJSON.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/NSString+SBJSON.o36"BBA44D21-F476-42C3-9941-75ED4053E617-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.886886
+e353912365.991521
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection115"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m003be32d4618b541^b0e5fd2d4618b541^---0#0#0#-19%DVTDocumentLocation2@123"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m0000000000000000^4165"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.o FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJSON.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJSON.o36"F3CB509E-E2FB-46C1-A024-9E280215AA3B-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.886909
+e353912365.936561
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection119"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.mbd3ae32d4618b541^e449f22d4618b541^---0#0#0#-19%DVTDocumentLocation2@127"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m0000000000000000^4189"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.o FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonBase.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonBase.o36"A8DD304E-5E8F-47A5-8646-BAD9AF976B39-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.899281
+e353912365.991652
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.mf568e62d4618b541^9df1fd2d4618b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m0000000000000000^4201"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.o FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonParser.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonParser.o36"248CF7B6-CB26-4809-8D83-5A86C94473B3-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912365.957842
+e353912366.024647
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.mbd37f62d4618b541^1366062e4618b541^---0#0#0#-19%DVTDocumentLocation2@129"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m0000000000000000^4201"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.o FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/JSON/SBJsonWriter.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/SBJsonWriter.o36"504E0796-DD36-42CA-A011-B4EF71E5C5E7-
+
+CCompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s354252878.734098
+e354252878.823003
+r1
+xCompileC
+xbuild/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.o
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection98"Compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m0c20bc4e781db541^79cbd94e781db541^---0#0#0#-19%DVTDocumentLocation2@106"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m0000000000000000^4123"CompileC build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.o FacebookPhotoBrowser/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -include /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch -MMD -MT dependencies -MF /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.d --serialize-diagnostics /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/main.m -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/main.o36"B6E80108-530E-4AD4-BF39-D2126D169E82-
+
+CCompileXIB /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib
+s353912367.088740
+e353912367.119235
+r1
+xCompileXIB
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Compiling /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib4dd8162f4618b541^1a871e2f4618b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib0000000000000000^1040"CompileXIB FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 5.0    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    setenv XCODE_DEVELOPER_USR_PATH /Applications/Xcode.app/Contents/Developer/usr/bin/..    /Applications/Xcode.app/Contents/Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/FacebookPhotoBrowserViewController.nib /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/FacebookPhotoBrowserViewController.xib --sdk /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk36"3F90B599-D926-42A0-BF83-0B7C5CB15CCC-
+
+CCopyStringsFile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/InfoPlist.strings FacebookPhotoBrowser/en.lproj/InfoPlist.strings
+s353912269.002384
+e353912269.012136
+r1
+xCopyStringsFile
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/InfoPlist.strings
+xFacebookPhotoBrowser/en.lproj/InfoPlist.strings
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection52"Copy FacebookPhotoBrowser/en.lproj/InfoPlist.strings8eb000cd4518b541^984e03cd4518b541^---0#0#0#-19%DVTDocumentLocation2@126"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/en.lproj/InfoPlist.strings0000000000000000^675"CopyStringsFile build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj/InfoPlist.strings FacebookPhotoBrowser/en.lproj/InfoPlist.strings    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copyStrings --validate --inputencoding utf-8 --outputencoding binary --outdir /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/en.lproj -- FacebookPhotoBrowser/en.lproj/InfoPlist.strings36"E57C7103-A653-4A28-B0AD-EEB1D54273A8-
+
+CCpResource ../../../Mac/samples/three20/src/Three20.bundle build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundle
+s353912269.002110
+e353912269.016152
+r1
+xCpResource
+x../../../Mac/samples/three20/src/Three20.bundle
+xbuild/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection72"Copy build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundleefad00cd4518b541^aa2a04cd4518b541^---0#0#0#-19%DVTDocumentLocation2@146"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundle000000000080d041^836"CpResource ../../../Mac/samples/three20/src/Three20.bundle build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Three20.bundle    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/../../../Mac/samples/three20/src/Three20.bundle /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app36"3B27575A-DF07-417A-99FD-D007824B34D1-
+
+CCpResource FacebookPhotoBrowser/FBConnect/FBDialog.bundle build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundle
+s353912269.002891
+e353912269.015120
+r1
+xCpResource
+xFacebookPhotoBrowser/FBConnect/FBDialog.bundle
+xbuild/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundle
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection73"Copy build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundlee4da00cd4518b541^ee5d03cd4518b541^---0#0#0#-19%DVTDocumentLocation2@147"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundle000000000080d041^835"CpResource FacebookPhotoBrowser/FBConnect/FBDialog.bundle build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FBDialog.bundle    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-copy -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -exclude .hg -resolve-src-symlinks -strip-tool /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/strip /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FBConnect/FBDialog.bundle /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app36"62496C94-06C0-44FB-852A-07058753900B-
+
+CGenerateDSYMFile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser
+s354253521.398198
+e354253521.699167
+r1
+xGenerateDSYMFile
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection131"Generating /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYMc10066d17a1db541^b1fbb2d17a1db541^---0#0#0#-19%DVTDocumentLocation2@137"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM/0000000000000000^784"GenerateDSYMFile build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/dsymutil /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app.dSYM36"B5BE705C-A1AA-436A-9753-933DFDD57620-
+
+CLd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser normal i386
+s354253521.209175
+e354253521.389694
+r1
+xLd
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser
+xnormal
+xi386
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection141"Link /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowserdaa935d17a1db541^a9c263d17a1db541^---0#0#0#--2098"Ld build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser normal i386    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -arch i386 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -L/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator -filelist /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/Objects-normal/i386/FacebookPhotoBrowser.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -ObjC -Xlinker -no_implicit_dylibs -D__IPHONE_OS_VERSION_MIN_REQUIRED=50100 /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20UICommon.a /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20.a /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20UINavigator.a /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20Core.a /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20UI.a -framework QuartzCore /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20Network.a /Users/spurnama/workspace/Mac/samples/three20/Build/Products/Debug-iphonesimulator/libThree20Style.a -framework UIKit -framework Foundation -framework CoreGraphics -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/FacebookPhotoBrowser36"E716FDA5-4011-4069-8459-2AC77FF9061F-
+
+CProcessInfoPlistFile /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Info.plist FacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist
+s353912365.618946
+e353912365.622617
+r1
+xProcessInfoPlistFile
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Info.plist
+xFacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection60"Process FacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist37889e2d4618b541^5a649f2d4618b541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist0000000000000000^813"ProcessInfoPlistFile build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Info.plist FacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility FacebookPhotoBrowser/FacebookPhotoBrowser-Info.plist -genpkginfo /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app/Info.plist36"F5EBE29A-D626-4561-B6D3-29C34D9CD88F-
+
+CProcessPCH /Users/spurnama/Library/Developer/Xcode/DerivedData/FacebookPhotoBrowser-hgznwkasixrobzefioxlobqvkjik/Index/PrecompiledHeaders/FacebookPhotoBrowser-Prefix-bozjpflwzhbidbhkjdhwgpwmejdr_ast/FacebookPhotoBrowser-Prefix.pch.pth FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /Users/spurnama/Library/Developer/Xcode/DerivedData/FacebookPhotoBrowser-hgznwkasixrobzefioxlobqvkjik/Index/PrecompiledHeaders/FacebookPhotoBrowser-Prefix-fpovtkqxxvjezcdaxcpqolfznvhy_ast/FacebookPhotoBrowser-Prefix.pch.pth FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.astbuilder
+r0
+
+CProcessPCH /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.pth FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s353912267.348254
+e353912267.624008
+r1
+xProcessPCH
+x/var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.pth
+xFacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection63"Precompile FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pcha85459cb4518b541^01be9fcb4518b541^---0#0#0#-19%DVTDocumentLocation2@131"file://localhost/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch0000000000000000^4109"ProcessPCH /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.pth FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv LANG en_US.US-ASCII    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c-header -arch i386 -fmessage-length=0 -std=gnu99 -Wno-trigraphs -fpascal-strings -O0 -Wno-missing-field-initializers -Wmissing-prototypes -Wreturn-type -Wno-implicit-atomic-properties -Wformat -Wno-missing-braces -Wparentheses -Wswitch -Wno-unused-function -Wno-unused-label -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-uninitialized -Wno-unknown-pragmas -Wno-shadow -Wno-four-char-constants -Wno-sign-compare -Wno-shorten-64-to-32 -Wpointer-sign -Wno-newline-eof -Wno-selector -Wno-strict-selector-match -Wno-undeclared-selector -Wno-deprecated-implementations -DDEBUG=1 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator5.1.sdk -fexceptions -fasm-blocks -Wprotocol -Wdeprecated-declarations -mmacosx-version-min=10.6 -g -Wno-conversion -Wno-sign-conversion -fobjc-abi-version=2 -fobjc-legacy-dispatch "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -D__IPHONE_OS_VERSION_MIN_REQUIRED=40300 -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-generated-files.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-own-target-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-all-target-headers.hmap -iquote /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/FacebookPhotoBrowser-project-headers.hmap -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/include -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/../../three20 -I../../../Mac/samples/three20/Build/Products/three20 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources/i386 -I/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/FacebookPhotoBrowser.build/Debug-iphonesimulator/FacebookPhotoBrowser.build/DerivedSources -F/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator --serialize-diagnostics /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.dia -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch -o /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.pth -MMD -MT dependencies -MF /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-dyqfdlkagvsbmigozbztlimfhmbq/FacebookPhotoBrowser-Prefix.pch.d36"D2848D03-905F-43FD-835D-5D4A0640C5AA-
+
+CProcessPCH /var/folders/fs/h4ym7gd13gl78tsydbswvttw0000gn/C/com.apple.Xcode.501/SharedPrecompiledHeaders/FacebookPhotoBrowser-Prefix-ekcgujhokckymbemdlpaafpaohvs/FacebookPhotoBrowser-Prefix.pch.pth FacebookPhotoBrowser/FacebookPhotoBrowser-Prefix.pch normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+r0
+
+CTouch /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app
+s354253521.716244
+e354253521.721404
+r1
+xTouch
+x/Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app
+lSLF05#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Touch /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app1f6ab7d17a1db541^53aeb8d17a1db541^---0#0#0#--462"Touch build/Debug-iphonesimulator/FacebookPhotoBrowser.app    cd /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser    setenv PATH "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Applications/Xcode.app/Contents/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/spurnama/workspace/Grio/Experiment/FacebookPhotoBrowser/build/Debug-iphonesimulator/FacebookPhotoBrowser.app36"FBCE1FBD-1802-4E0C-A43C-D896BB3AD843-
+
