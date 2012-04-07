@@ -54,6 +54,8 @@
     // force fb sdk to shows popup within app
 //    [_facebook authorizeWithFBAppAuth:NO safariAuth:NO];
     if ([_facebook respondsToSelector:@selector(authorizeWithFBAppAuth:safariAuth:)]) {
+      NSArray *permissions = [NSArray arrayWithObjects:@"user_photos", nil];
+      [_facebook performSelector:@selector(setPermissions:) withObject:permissions];
       [_facebook performSelector:@selector(authorizeWithFBAppAuth:safariAuth:) withObject:NO withObject:NO];
     }
   }

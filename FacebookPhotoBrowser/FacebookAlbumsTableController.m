@@ -29,7 +29,6 @@ static NSString* kGraphBaseURL = @"https://graph.facebook.com/";
                                                  action:@selector(cancelSelection)] autorelease];
 
   self.title = @"Albums";
-  [self reload];
 }
 
 
