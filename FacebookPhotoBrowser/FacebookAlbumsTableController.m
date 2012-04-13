@@ -57,12 +57,15 @@ static NSString* kGraphBaseURL = @"https://graph.facebook.com/";
   
 }
 
+
 /**
  * Called when an error prevents the request from completing successfully.
  */
 - (void)request:(FBRequest *)request didFailWithError:(NSError *)error {
-  
+  // here, you can show an alert and send cancellation notice to delegate
+  [self cancelSelection];
 }
+
 
 /**
  * Called when a request returns and its response has been parsed into
