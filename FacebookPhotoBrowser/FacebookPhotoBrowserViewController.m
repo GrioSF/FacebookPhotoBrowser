@@ -2,8 +2,10 @@
 //  FacebookPhotoBrowserViewController.m
 //  FacebookPhotoBrowser
 //
+//  Main view controller that demonstrates the use of FacebookPhotoPickerController
+//
 //  Created by Purnama Santo on 2/23/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Grio. All rights reserved.
 //
 
 #import "FacebookPhotoBrowserViewController.h"
@@ -62,6 +64,9 @@
 }
 
 
+//
+// Example of picking image from camera
+//
 - (IBAction)cameraAction:(id)sender {
   if ([UIImagePickerController isSourceTypeAvailable:UIImagePickerControllerSourceTypePhotoLibrary])
   {
@@ -72,6 +77,10 @@
 }
 
 
+//
+// Example of picking image from facebook photo library.
+// As you can see, picking an image from facebook is as easy as from a camera library.
+//
 - (IBAction)facebookPhotoLibraryAction:(id)sender {
   FacebookPhotoPickerController *fbPicker = [[FacebookPhotoPickerController alloc] initWithDelegate:self];
   [self presentModalViewController:fbPicker animated:YES];
@@ -87,6 +96,7 @@
 
 #pragma mark UIImagePickerControllerDelegate
 
+//
 // this get called when an image has been chosen from the library or taken from the camera
 //
 - (void)imagePickerController:(UIImagePickerController*)picker didFinishPickingMediaWithInfo:(NSDictionary *)info
@@ -103,18 +113,23 @@
 
 
 #pragma mark FacebookPhotoPickerControllerDelegate
+
+//
+// this is called when an image is chosne from user's facebook library.
+//
 - (void)facebookPhotoPickerController:(FacebookPhotoPickerController *)picker didFinishPickingMediaWithInfo:(NSDictionary *)info {
   UIImage *image = [info valueForKey:UIImagePickerControllerOriginalImage];
   [self.imageView setImage:image];
   [self dismissPicker:picker];
 }
 
+
+//
+// any cancelation, including user's rejection of installing your fb app, will end up here
+//
 - (void)facebookPhotoPickerControllerDidCancel:(FacebookPhotoPickerController *)picker {
   [self dismissPicker:picker];
 }
-
-
-
 
 
 @end

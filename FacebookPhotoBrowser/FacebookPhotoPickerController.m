@@ -3,7 +3,7 @@
 //  FacebookPhotoBrowser
 //
 //  Created by Purnama Santo on 2/23/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Grio. All rights reserved.
 //
 
 #import "FacebookPhotoPickerController.h"
@@ -33,6 +33,9 @@
 - (void)loadView {
   [super loadView];
 
+  // this is the place where you'd replace the app id with yours.
+  // you can easily create a constructor that accepts both delegate and app id, like:
+  //  initWithDelegate:... andAppId:...
   self.facebook = [[[Facebook alloc] initWithAppId:@"39624508329" andDelegate:self] autorelease];
   
   FacebookAlbumsTableController *table = [[FacebookAlbumsTableController alloc] initWithFacebook:_facebook];
@@ -52,7 +55,8 @@
   
   if (![_facebook isSessionValid]) {
     // force fb sdk to shows popup within app
-//    [_facebook authorizeWithFBAppAuth:NO safariAuth:NO];
+    // fb doesn't expose these functions, so we go thru backdoor
+    // for more info, see http://blog.grio.com/2012/02/in-app-facebook-authentication-on-ios.html
     if ([_facebook respondsToSelector:@selector(authorizeWithFBAppAuth:safariAuth:)]) {
       NSArray *permissions = [NSArray arrayWithObjects:@"user_photos", nil];
       [_facebook performSelector:@selector(setPermissions:) withObject:permissions];
@@ -65,6 +69,8 @@
 }
 
 
+#pragma mark - FBSessionDelegate
+
 - (void)fbDidLogin {
   NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
   [defaults setObject:[_facebook accessToken] forKey:@"FBAccessTokenKey"];
@@ -76,14 +82,11 @@
 
 
 - (void)fbDidNotLogin:(BOOL)cancelled {
-  NSLog(@"didnotlogin: %d", cancelled);
   [_pickerDelegate facebookPhotoPickerControllerDidCancel:self];
 }
 
 
 - (void)showAlbums {
-//  [_facebook requestWithGraphPath:@"me/albums" andDelegate:self];
-
   [(TTModelViewController*)self.topViewController reload];
 }
 

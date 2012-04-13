@@ -3,14 +3,13 @@
 //  MyFacebookPhotos
 //
 //  Created by Purnama Santo on 3/8/12.
-//  Copyright (c) 2012 __MyCompanyName__. All rights reserved.
+//  Copyright (c) 2012 Grio. All rights reserved.
 //
 
 #import <Foundation/Foundation.h>
 #import <Three20/Three20.h>
 
 @interface FacebookPhoto : NSObject <TTPhoto> {
-  NSString *_caption;
   NSString *_urlLarge;
   NSString *_urlSmall;
   NSString *_urlThumb;
@@ -19,7 +18,6 @@
   NSInteger _index;
 }
 
-@property (nonatomic, copy) NSString *caption;
 @property (nonatomic, copy) NSString *urlLarge;
 @property (nonatomic, copy) NSString *urlSmall;
 @property (nonatomic, copy) NSString *urlThumb;

@@ -3,6 +3,7 @@
 
 static NSString* kGraphBaseURL = @"https://graph.facebook.com/";
 
+
 @implementation FacebookAlbumsTableController
 
 - (id)initWithFacebook:(Facebook*)facebook {

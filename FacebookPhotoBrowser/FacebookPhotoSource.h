@@ -1,14 +1,23 @@
+//
+//  FacebookPhotoSource.h
+//  FacebookPhotoBrowser
+//  This class encapsulates the facebook photo data source of a particular album.
+//
+//  Created by Purnama Santo on 2/23/12.
+//  Copyright (c) 2012 Grio. All rights reserved.
+//
+
 #import <Foundation/Foundation.h>
 #import "Three20/Three20.h"
 #import "FBConnect.h"
 
 
+// loading state of data source
 typedef enum {
   idle,
   loading,
   loaded
 } LoadState;
-
 
 
 @interface FacebookPhotoSource : TTURLRequestModel <TTPhotoSource, FBRequestDelegate> {
